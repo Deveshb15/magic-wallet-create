@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import { ChainId, ThirdwebProvider ,WalletConnector } from '@thirdweb-dev/react'
+import { ChainId, ThirdwebProvider } from '@thirdweb-dev/react'
 
 const activeChainId = ChainId.Mumbai
 
